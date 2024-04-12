@@ -1,4 +1,4 @@
-# Login
+# Login(初学者的一个记录)
 基于springboot的一个登录逻辑（写这个主要是一些基本技术的巩固学习）
 基本技术：拦截器，Validation验证参数，正则表达式，JWT技术，mybatis，lombok小工具， 响应数据类Result（属于规范开发）
 基本思路： 
